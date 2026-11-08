@@ -17,3 +17,4 @@ O fluxo de dados foi projetado para ser totalmente independente de execução lo
 
 ## 🔒 Segurança e Boas Práticas
 * *Variáveis de Ambiente:* O projeto foi configurado para ocultar tokens de acesso, IDs de planilhas e credenciais confidenciais, utilizando boas práticas de segurança de dados (evitando hardcoded credentials no repositório público).
+<img width="941" height="277" alt="image" src="https://github.com/user-attachments/assets/c0b1bf50-b965-46dc-a503-35a8986add87" />

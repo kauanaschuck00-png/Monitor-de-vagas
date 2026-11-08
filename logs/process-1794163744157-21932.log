@@ -1,0 +1,2 @@
+2026-11-08T18:49:05.383Z [INFO] Native runtime logging initialized
+2026-11-08T18:49:10.572Z [WARNING] [rust:standalone_host::standalone::transport] Unable to locate runtime-bundled skills beside the native runtime
